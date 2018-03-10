@@ -82,13 +82,12 @@ a:hover {
 
 
 .img-accept{
-    background-image: url("../img/ACCEPT.png");
-    height: 200px;
-    width: 200px;
+    background-image: url("assets/img/ACCEPT.png");
+    height: 100px;
+    width: 100px;
     border-style: solid;
     color: red;
     border-width: 2px;
-
 }
 
 
